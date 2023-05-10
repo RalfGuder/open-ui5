@@ -15,3 +15,6 @@ Das Einfügen unserer gesamten Benutzeroberfläche in die Datei index.html wird se
 
 ## [Step 5: Controllers](Step_5_Controllers.md)
 In diesem Schritt ersetzen wir den Text durch eine Schaltfläche und zeigen die Meldung „Hallo Welt“ an, wenn die Schaltfläche gedrückt wird. Die Behandlung des Druckereignisses der Schaltfläche ist im Controller der Ansicht implementiert.
+
+## [Step 6: Modules](Step_6_Modules.md)
+In OpenUI5 werden Ressourcen oft als Module bezeichnet. In diesem Schritt ersetzen wir den Alert aus der letzten Übung durch einen richtigen Message Toast aus der sap.m-Bibliothek. Die erforderlichen Module können asynchron geladen werden.
