@@ -18,3 +18,6 @@ In diesem Schritt ersetzen wir den Text durch eine Schaltfläche und zeigen die M
 
 ## [Step 6: Modules](Step_6_Modules.md)
 In OpenUI5 werden Ressourcen oft als Module bezeichnet. In diesem Schritt ersetzen wir den Alert aus der letzten Übung durch einen richtigen Message Toast aus der sap.m-Bibliothek. Die erforderlichen Module können asynchron geladen werden.
+
+## [Step 7: JSON Model](Step_7_JSON_Model.md)
+Nachdem wir nun die Ansicht und den Controller eingerichtet haben, ist es an der Zeit, über das M in MVC nachzudenken.
