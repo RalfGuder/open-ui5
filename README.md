@@ -9,3 +9,6 @@ Bevor wir etwas mit OpenUI5 machen können, müssen wir es laden und initialisiere
 
 ## Step 3: Controls
 Jetzt ist es an der Zeit, unsere erste kleine Benutzeroberfläche zu erstellen, indem wir den „Hello World“-Text im HTML-Body durch das OpenUI5-Steuerelement sap.m.Text ersetzen. Zu Beginn verwenden wir die JavaScript-Steuerschnittstelle, um die Benutzeroberfläche einzurichten. Anschließend wird die Steuerinstanz in den HTML-Body eingefügt.
+
+## Step 4: XML Views
+Das Einfügen unserer gesamten Benutzeroberfläche in die Datei index.html wird sehr bald zu einem chaotischen Setup führen und es liegt noch einiges an Arbeit vor uns. Führen wir also eine erste Modularisierung durch, indem wir das sap.m.Text-Control in eine dedizierte Ansicht einfügen.
