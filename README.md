@@ -12,3 +12,6 @@ Jetzt ist es an der Zeit, unsere erste kleine Benutzeroberfläche zu erstellen, i
 
 ## Step 4: XML Views
 Das Einfügen unserer gesamten Benutzeroberfläche in die Datei index.html wird sehr bald zu einem chaotischen Setup führen und es liegt noch einiges an Arbeit vor uns. Führen wir also eine erste Modularisierung durch, indem wir das sap.m.Text-Control in eine dedizierte Ansicht einfügen.
+
+## [Step 5: Controllers](Step_5_Controllers.md)
+In diesem Schritt ersetzen wir den Text durch eine Schaltfläche und zeigen die Meldung „Hallo Welt“ an, wenn die Schaltfläche gedrückt wird. Die Behandlung des Druckereignisses der Schaltfläche ist im Controller der Ansicht implementiert.
